@@ -67,5 +67,6 @@ agregar/editar Producto
 
 estructura del proyecto
 
+![image](https://user-images.githubusercontent.com/56971398/83364332-b49adf00-a36e-11ea-8cc6-8b2c9e78937e.png)
 
 
