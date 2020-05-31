@@ -63,7 +63,7 @@ principal
 
 agregar/editar Producto
 
-![03](https://user-images.githubusercontent.com/56971398/82600500-00ce6e00-9b7c-11ea-8d49-23a2bbb8f2b2.png)
+![image](https://user-images.githubusercontent.com/56971398/83364306-5ff76400-a36e-11ea-8d87-b11e4dca203d.png)
 
 estructura del proyecto
 
