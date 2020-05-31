@@ -44,7 +44,7 @@ COMMIT;
 
 
 
-Nota: el proyecto se desarrollo con con NetBeans 8.2, Glash Fish 5 y Java 7 y MySQL.
+`Nota: el proyecto se desarrollo con con NetBeans 8.2, Glash Fish 5 y Java 7 y MySQL.`
 
 ----
 
@@ -58,7 +58,7 @@ Nota: el proyecto se desarrollo con con NetBeans 8.2, Glash Fish 5 y Java 7 y My
 
 principal
 
-![01](https://user-images.githubusercontent.com/56971398/82600250-a208f480-9b7b-11ea-816b-c879bacc8c88.png)
+![image](https://user-images.githubusercontent.com/56971398/83364253-05f69e80-a36e-11ea-9955-4d0eb19a94f6.png)
 
 
 agregar/editar Producto
